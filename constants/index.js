@@ -72,17 +72,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    profile: ''
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    profile: 'https://www.linkedin.com/in/jyoti-suman-sahoo-8084b1237/'
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    profile: ''
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    profile: ''
   },
 ];

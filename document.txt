@@ -10,4 +10,7 @@
 
 
 
-    glassmorphism not working
+1. glassmorphism not working    ☑️
+
+    issue fixed
+    error in class name while writing
